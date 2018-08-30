@@ -1,10 +1,11 @@
 Xealous - a split 60% keyboard
 ===
 
-![complete](https://github.com/alex-ong/Split60/blob/master/photos/complete.jpg)
+![switches](https://github.com/alex-ong/Split60/blob/master/photos/top-1.jpg)
 
 
-This is a simple hand-made Split60 keyboard. 
+
+This is a simple hand-made Split 60% keyboard. 
 Note that i added 1mm to the middle on each half to make the magnets fit better.
 You can fix this via using simple CAD tools / sketchup and re-exporting.
 
@@ -61,3 +62,4 @@ Assembly
 Screws.
 
 
+![complete](https://github.com/alex-ong/Split60/blob/master/photos/complete.jpg)
